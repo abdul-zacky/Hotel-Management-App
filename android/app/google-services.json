@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53017535114",
+    "project_id": "wisma1",
+    "storage_bucket": "wisma1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53017535114:android:cb87366950f17329fac373",
+        "android_client_info": {
+          "package_name": "com.example.wisma1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6AyOaCRiNdSo_G7BwpQw8M_JCgg99zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
